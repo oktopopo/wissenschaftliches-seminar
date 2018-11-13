@@ -1,0 +1,125 @@
+\documentclass[10pt,a4paper,headinclude,twoside, plainheadsepline, open=right, numbers=noenddot, twocolumn]{article}
+%
+% ------
+% Maketitle metadata
+\title{\vspace{-5mm}%
+	\fontsize{20pt}{10pt}\selectfont
+	\textbf{Methoden zur Messung der Hydratation durch tragbare Photoplethysmographie-Sensoren}
+	}	
+\vspace{-5mm}\date{}
+\author{
+	\large
+       \begin{minipage}[t]{0.33\linewidth}
+         \begin{center}
+           	\textsc{Olga Litau}\\[2mm]
+                 \normalsize	Matr.Nr: 3156218\\
+                 \normalsize
+                 \href{mailto:olga1.litau@st.oth-regensburg.de}
+                 {olga1.litau@st.oth-regensburg.de}      
+         \end{center}
+       \end{minipage}        
+     }
+%
+%\addto\captionsgerman{\renewcommand{\figurename}{Fig.}}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Literaturverzeichnis
+%
+% Hier eine von zwei Varianten auswaehlen:
+% Nummern oder Buchstaben fuer Referenzen
+%\usepackage[backend=biber, style=alphabetic, sorting=nyt]{biblatex}
+\usepackage[backend=biber, style=numeric-comp, sorting=none]{biblatex}
+%
+% Hier werden die Referenzen in einer separaten Datei gespeichert
+\addbibresource{termPaper.bib}
+%
+% WICHTIG: Hier wird nicht BibTeX sondern BibLateX verwendet!!
+% Deshalb nicht mit bibtex uebersetzen, sondern mit biber
+% Das kann man in jedem Tool wie TexMaker oder TexShop als Option einstellen
+%
+
+% Spezielle Einstellungen, insbesondere fuer das Literaturverzeichnis,
+% aber auch Packages wie amsmath, Groessenanpassungen etc.
+\input{./preferences.tex}
+%
+% ------
+% Header/footer
+\usepackage{fancyhdr}
+	\pagestyle{fancy}
+	\fancyfoot[C]{Wissenschaftliches Seminar WS 2018/19 $\cdot$
+          $\cdot$ Prof.~Dr.~Doering}
+%
+	\fancyhead[RE]{Olga Litau}
+	\fancyhead[LO]{Methoden zur Messung der Hydratation durch tragbare Photoplethysmographie
+Sensoren}	
+	\fancyhead[RO,LE]{\thepage}
+%
+\begin{document}
+\pagenumbering{arabic} % ab jetzt arabische Nummerierung
+\twocolumn[
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\maketitle
+\tableofcontents % Inhaltsverzeichnis
+\vspace{2cm}
+\begin{abstract}
+\noindent Hierher kommt die Zusammenfassung...
+\end{abstract}
+\vspace{0.2cm}
+]
+
+
+\section{Einleitung}
+\label{einleitung}
+
+ 
+
+
+\section{Methoden zur Messung der Hydratation}
+\label{methoden zur messung der hydratation}
+
+
+\subsection{Klinische Anamnese}
+\label{klinische anamnese}
+
+
+\subsection{Laboruntersuchungen}
+\label{laboruntersuchungen}
+
+
+\subsection{Tragbare Sensoren}
+\label{tragbare sensoren}
+
+
+\section{Tragbare Photoplethysmographie Sensoren}
+\label{tragbare photoplethysmographie sensoren}
+
+
+\subsection{Verwendung von Photopletysmographie zur physiologischen Messung}
+\label{verwendung von photopletysmographie zur physiologischen messung}
+
+
+\subsection{Verarbeitung des PPG-Signals}
+\label{verarbeitung des ppg-signals}
+
+
+\section{Zuverlässigkeit der Messungen mit PPG-Sensoren}
+\label{zuverlässigkeit der messungen mit ppg-sensoren}
+
+\section{Vergleich der Verfahren anhand von selbst bestimmten Kriterien}
+\label{vergleich der verfahren}
+
+\section{Schlussbetrachtung und Ausblick}
+\label{schlussbetrachtung und ausblick}
+
+
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Literaturverzeichnis
+\printbibliography
+% Anhang
+%\appendix
+%\section{Anhang}
+%\label{anhang}
+\end{document}
+
