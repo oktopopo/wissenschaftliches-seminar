@@ -16,5 +16,229 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{sawka2015hypohydration}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ffc8e8b054042e12c9f22e4a6e7a5760}{%
+           family={Sawka},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=5082dd64dc08bff0db220520d1de9f9c}{%
+           family={Cheuvront},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelima N},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=75798d5b132ff9427993ec1402641e25}{%
+           family={Kenefick},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f30a40b2f2663d0a74fe8da45efa4851}
+      \strng{fullhash}{6601b5c823ed60a5c0531b1fb28d0337}
+      \strng{bibnamehash}{6601b5c823ed60a5c0531b1fb28d0337}
+      \strng{authorbibnamehash}{6601b5c823ed60a5c0531b1fb28d0337}
+      \strng{authornamehash}{f30a40b2f2663d0a74fe8da45efa4851}
+      \strng{authorfullhash}{6601b5c823ed60a5c0531b1fb28d0337}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sports Medicine}
+      \field{number}{1}
+      \field{title}{Hypohydration and human performance: impact of environment and physiological mechanisms}
+      \field{volume}{45}
+      \field{year}{2015}
+      \field{pages}{51\bibrangedash 60}
+      \range{pages}{10}
+    \endentry
+    \entry{raman2004american}{inproceedings}{}
+      \name{author}{11}{}{%
+        {{hash=fe9d788b19ce096bdab5888718350c60}{%
+           family={Raman},
+           familyi={R\bibinitperiod},
+           given={Aarthi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5ec4829b86b70f7822d92b0481c22b12}{%
+           family={Schoeller},
+           familyi={S\bibinitperiod},
+           given={Dale\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=75ffdb72bcfc533063aeb78b37d863ca}{%
+           family={Subar},
+           familyi={S\bibinitperiod},
+           given={Amy\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8607c9d1b447d3e480372adfd2976840}{%
+           family={Troiano},
+           familyi={T\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=172254a8aee03c186f2b49bf71a4a5b3}{%
+           family={Schatzkin},
+           familyi={S\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1487b50dc11174edf9f0c8ff120fcf2b}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1a86669659c40776f77df84b780a4008}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ee1bd04464483f86a65b1dd7c08b744c}{%
+           family={Bingham},
+           familyi={B\bibinitperiod},
+           given={Shiela\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=696ec02336a13c64faa246b952005863}{%
+           family={Everhart},
+           familyi={E\bibinitperiod},
+           given={James\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=d42936be667a466669a799763332208e}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Anne\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d2696e3d41bc01ec267a5f47ee8377eb}{%
+           family={Tylavsky},
+           familyi={T\bibinitperiod},
+           given={Frances\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b966988a142d09ead3eedba09d219977}
+      \strng{fullhash}{c99267a7d88b91d3fb585621e41ab115}
+      \strng{bibnamehash}{c99267a7d88b91d3fb585621e41ab115}
+      \strng{authorbibnamehash}{c99267a7d88b91d3fb585621e41ab115}
+      \strng{authornamehash}{b966988a142d09ead3eedba09d219977}
+      \strng{authorfullhash}{c99267a7d88b91d3fb585621e41ab115}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{American journal of physiology}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Water turnover in 458 American adults 40-79 yr of age}
+      \field{volume}{286}
+      \field{year}{2004}
+      \field{pages}{F394\bibrangedash 401}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1152/ajprenal.00295.2003
+      \endverb
+      \keyw{4-Aminobenzoic Acid/pharmacokinetics; Adult; Aged; Drinking/physiology; Female; Humans; Kidney/physiology; Male; Middle Aged; Regression Analysis; United States; urine; Water/metabolism; Water-Electrolyte Balance/physiology}
+    \endentry
+    \entry{garret2018engineering}{article}{}
+      \name{author}{7}{}{%
+        {{hash=f447210261183eac2437825ca5aa367e}{%
+           family={Garrett},
+           familyi={G\bibinitperiod},
+           given={D.\bibnamedelimi C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c9db6a1dbb805f4366ee29e6412b03ae}{%
+           family={Rae},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=bb7c4ca756478bba1d7389eea8149621}{%
+           family={Fletcher},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=13fcdbbe6b03128c3db64382d2a48039}{%
+           family={Zarnke},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=23b92a06c49b7a6e0ebc21fb0271622c}{%
+           family={Thorson},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a6642f2d853e4bcd8a655150fd8b62dc}{%
+           family={Hogan},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b5ada62558c371c1af344f6dd99a9d8c}{%
+           family={Fear},
+           familyi={F\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b74ae5454c79951dbae72b9ddd5dad71}
+      \strng{fullhash}{624f8e0e3ef6eabec932464a318592d7}
+      \strng{bibnamehash}{624f8e0e3ef6eabec932464a318592d7}
+      \strng{authorbibnamehash}{624f8e0e3ef6eabec932464a318592d7}
+      \strng{authornamehash}{b74ae5454c79951dbae72b9ddd5dad71}
+      \strng{authorfullhash}{624f8e0e3ef6eabec932464a318592d7}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1937-3333}
+      \field{journaltitle}{IEEE Reviews in Biomedical Engineering}
+      \field{title}{Engineering Approaches to Assessing Hydration Status}
+      \field{volume}{11}
+      \field{year}{2018}
+      \field{pages}{233\bibrangedash 248}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/RBME.2017.2776041
+      \endverb
+      \keyw{bioacoustics;biochemistry;biological tissues;biomedical equipment;bio-optics;blood;cognition;diseases;kidney;patient monitoring;reviews;hydration status;medical conditions;review;clinical indicators;blood;urine;portable hydration monitoring devices;acoustical properties;chemical properties;optical properties;electromagnetic properties;biological tissue;bodily fluids;hydration assessment;fluid homeostasis;environmental exposure;physical activity;older adults;manual workers;military personnel;kidney stones;urolithiasis;chronic mild dehydration;health effects;exhaustion;heat stroke;cognitive impairment;physical impairment;acute dehydration;total body water;rapid hydration monitoring devices;simple hydration monitoring devices;routine laboratory analyses;Fluids;Heating systems;Sociology;Statistics;Personnel;Training;Blood;Assessment;dehydration;hydration;monitoring;water content}
+    \endentry
+    \entry{suryadevara2015towards}{article}{}
+      \name{author}{3}{}{%
+        {{hash=23a0b4b39b3fcb977c899358aeece67d}{%
+           family={Suryadevara},
+           familyi={S\bibinitperiod},
+           given={Nagender\bibnamedelima K},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4a389f5004773c92e5297aeabaa5db72}{%
+           family={Mukhopadhyay},
+           familyi={M\bibinitperiod},
+           given={Subhas\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=5aab441ce4106e999121720ea9e161e9}{%
+           family={Barrack},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{699da5bb89ee8b3126979d0bbd9a293c}
+      \strng{fullhash}{d9f330ac24611f4646b1ccb432b8e701}
+      \strng{bibnamehash}{d9f330ac24611f4646b1ccb432b8e701}
+      \strng{authorbibnamehash}{d9f330ac24611f4646b1ccb432b8e701}
+      \strng{authornamehash}{699da5bb89ee8b3126979d0bbd9a293c}
+      \strng{authorfullhash}{d9f330ac24611f4646b1ccb432b8e701}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of medical systems}
+      \field{number}{4}
+      \field{title}{Towards a smart non-invasive fluid loss measurement system}
+      \field{volume}{39}
+      \field{year}{2015}
+      \field{pages}{38}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

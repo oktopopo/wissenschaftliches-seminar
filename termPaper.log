@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.16)  13 NOV 2018 18:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.16)  13 NOV 2018 21:00
 entering extended mode
 **./termPaper.tex
 (termPaper.tex
@@ -1070,52 +1070,68 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 \tf@toc=\write6
 \openout6 = `termPaper.toc'.
 
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 82.
-
-
-LaTeX Warning: Empty bibliography on input line 119.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (152.3539pt too high) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-[1{C:/Users/Olgi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+ [1{C:/Users/Olgi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+[]\T1/pplx/m/n/10 (+20) Vor kur-z-em wur-de von \T1/pplx/b/n/10 Sa-rya-de-va-
+ []
 
-(termPaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
+
+Underfull \hbox (badness 3690) in paragraph at lines 92--94
+\T1/pplx/b/n/10 ra et al. \T1/pplx/m/n/10 (+20) die Ver-wen-dung von trag-ba-re
+n
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 92--94
+\T1/pplx/m/n/10 (+20) die Ver-wen-dung von Pho-to-ple-tys-mo-gra-phie
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 92--94
+\T1/pplx/m/n/10 (+20) zur phy-sio-lo-gi-schen Mes-sung als auch die
+ []
+
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 105.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+ (termPaper.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `termPaper.out' has not changed.
-(rerunfilecheck)             Checksum: 9F4D46775B1E6DCA8B3F46AEE586F02B;840.
+(rerunfilecheck)             Checksum: A2186C2BF52A4DF35C0105666694CDDE;765.
 Package logreq Info: Writing requests to 'termPaper.run.xml'.
 \openout1 = `termPaper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18818 strings out of 492970
- 311754 string characters out of 3127037
- 815283 words of memory out of 3000000
- 22323 multiletter control sequences out of 15000+200000
- 45272 words of font info for 114 fonts, out of 3000000 for 9000
+ 19136 strings out of 492970
+ 318257 string characters out of 3127037
+ 817532 words of memory out of 3000000
+ 22539 multiletter control sequences out of 15000+200000
+ 52619 words of font info for 188 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 46i,11n,43p,1136b,2180s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,43p,1834b,2180s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
-<C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a
-.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/
-uplb8a.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/pal
-atino/uplr8a.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
-rw/palatino/uplri8a.pfb>
-Output written on termPaper.pdf (1 page, 69422 bytes).
+<C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/fpl/fplrc8a.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
+rw/palatino/uplb8a.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/urw/palatino/uplr8a.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/urw/palatino/uplri8a.pfb>
+Output written on termPaper.pdf (2 pages, 92959 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 37977 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 44113 words of extra memory for PDF output out of 51595 (max. 10000000)
 
