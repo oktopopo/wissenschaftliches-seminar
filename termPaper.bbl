@@ -238,6 +238,182 @@
       \field{pages}{38}
       \range{pages}{1}
     \endentry
+    \entry{armstrong2013novel}{article}{}
+      \name{author}{6}{}{%
+        {{hash=4411e6ca3e9557127830f334f14c7524}{%
+           family={Armstrong},
+           familyi={A\bibinitperiod},
+           given={Lawrence\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3fce0912f9db4cc4eaf9b83e8d0a9539}{%
+           family={Ganio},
+           familyi={G\bibinitperiod},
+           given={Matthew\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ee1811149027dbc8a2da33f5b2c97703}{%
+           family={Klau},
+           familyi={K\bibinitperiod},
+           given={Jennifer\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8120cb8db18171771c0587fae778d5f9}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Evan\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d8073302164ed55c7ce955b2e71ccb7c}{%
+           family={Casa},
+           familyi={C\bibinitperiod},
+           given={Douglas\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5764d49c4843bf447ad158e53985949a}{%
+           family={Maresh},
+           familyi={M\bibinitperiod},
+           given={Carl\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NRC Research Press}%
+      }
+      \strng{namehash}{a1e6f24196c9c8897735101bce946e6a}
+      \strng{fullhash}{6f26124e73d2f1c1e930f83a4b47b7da}
+      \strng{bibnamehash}{6f26124e73d2f1c1e930f83a4b47b7da}
+      \strng{authorbibnamehash}{6f26124e73d2f1c1e930f83a4b47b7da}
+      \strng{authornamehash}{a1e6f24196c9c8897735101bce946e6a}
+      \strng{authorfullhash}{6f26124e73d2f1c1e930f83a4b47b7da}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Physiology, Nutrition, and Metabolism}
+      \field{number}{2}
+      \field{title}{Novel hydration assessment techniques employing thirst and a water intake challenge in healthy men}
+      \field{volume}{39}
+      \field{year}{2013}
+      \field{pages}{138\bibrangedash 144}
+      \range{pages}{7}
+    \endentry
+    \entry{fortes2015elderly}{article}{}
+      \name{author}{7}{}{%
+        {{hash=06435992d855d4bd8f29e89db58de9c7}{%
+           family={Fortes},
+           familyi={F\bibinitperiod},
+           given={Matthew\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=da03ea6ad5172d88e998e09b54dc8559}{%
+           family={Owen},
+           familyi={O\bibinitperiod},
+           given={Julian\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8ba04a527800693828ac0cf23cce2799}{%
+           family={Raymond-Barker},
+           familyi={R\bibinithyphendelim B\bibinitperiod},
+           given={Philippa},
+           giveni={P\bibinitperiod}}}%
+        {{hash=673a4a27ed55e6e7fd6c2f201a14b3f6}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod}}}%
+        {{hash=734a2ce468b7f15de0c3348cb400822c}{%
+           family={Elghenzai},
+           familyi={E\bibinitperiod},
+           given={Salah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=81323ff484bd0be216562dc4b8929b8d}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={Samuel\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d1c34ebe9af8389576f6311553beba6b}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={Neil\bibnamedelima P},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{74bfc3f22b120442cbfe982b6e20f423}
+      \strng{fullhash}{61dd97e3a3d589d8c3708be266d66782}
+      \strng{bibnamehash}{61dd97e3a3d589d8c3708be266d66782}
+      \strng{authorbibnamehash}{61dd97e3a3d589d8c3708be266d66782}
+      \strng{authornamehash}{74bfc3f22b120442cbfe982b6e20f423}
+      \strng{authorfullhash}{61dd97e3a3d589d8c3708be266d66782}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Medical Directors Association}
+      \field{number}{3}
+      \field{title}{Is this elderly patient dehydrated? Diagnostic accuracy of hydration assessment using physical signs, urine, and saliva markers}
+      \field{volume}{16}
+      \field{year}{2015}
+      \field{pages}{221\bibrangedash 228}
+      \range{pages}{8}
+    \endentry
+    \entry{kavouras2002assessing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=782d4154e94ae15c7ef304300c8832cf}{%
+           family={Kavouras},
+           familyi={K\bibinitperiod},
+           given={Stavros\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{782d4154e94ae15c7ef304300c8832cf}
+      \strng{fullhash}{782d4154e94ae15c7ef304300c8832cf}
+      \strng{bibnamehash}{782d4154e94ae15c7ef304300c8832cf}
+      \strng{authorbibnamehash}{782d4154e94ae15c7ef304300c8832cf}
+      \strng{authornamehash}{782d4154e94ae15c7ef304300c8832cf}
+      \strng{authorfullhash}{782d4154e94ae15c7ef304300c8832cf}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Opinion in Clinical Nutrition \& Metabolic Care}
+      \field{number}{5}
+      \field{title}{Assessing hydration status}
+      \field{volume}{5}
+      \field{year}{2002}
+      \field{pages}{519\bibrangedash 524}
+      \range{pages}{6}
+    \endentry
+    \entry{davis1997effect}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7abcf2b4074b7617d5625937d55eb7f1}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={JE},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cdd979a31692ebb308520bb338eb8876}{%
+           family={Fortney},
+           familyi={F\bibinitperiod},
+           given={SM},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{©} Georg Thieme Verlag Stuttgart{·} New York}%
+      }
+      \strng{namehash}{c4cb948fad6ab2356a0b5ff31bb23ee8}
+      \strng{fullhash}{23ffea22b46cac9b03d12c828a9a0674}
+      \strng{bibnamehash}{23ffea22b46cac9b03d12c828a9a0674}
+      \strng{authorbibnamehash}{23ffea22b46cac9b03d12c828a9a0674}
+      \strng{authornamehash}{c4cb948fad6ab2356a0b5ff31bb23ee8}
+      \strng{authorfullhash}{23ffea22b46cac9b03d12c828a9a0674}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of sports medicine}
+      \field{number}{03}
+      \field{title}{Effect of fluid ingestion on orthostatic responses following acute exercise}
+      \field{volume}{18}
+      \field{year}{1997}
+      \field{pages}{174\bibrangedash 178}
+      \range{pages}{5}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

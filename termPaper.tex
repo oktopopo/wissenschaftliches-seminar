@@ -86,10 +86,10 @@ Hypotone Dehydratation entsteht, wenn im Verhältnis zum Wasserverlust zu viel S
 Bei der Verwendung eines Diuretikums, das die vermehrte Ausschwemmung von Urin aus dem menschlichen Körper bewirkt, kann eine hypotone Dehydratation verursacht werden. 
 Bei einer Messung ist es von Vorteil zwischen den Arten der Dehydrierung differenzieren zu können, um eine effektive Behandlung zu ermöglichen \cite{garret2018engineering}.
 
-Die Methoden zur Messung der Dehydratation sind unterschiedlich und reichen von der klinischen Anamnese über Untersuchungen im Labor bis hin zu tragbaren Sensoren.
+Die Methoden zur Messung der Dehydratation sind unterschiedlich und reichen von der klinischen Anamnese über Untersuchungen im Labor bis hin zu neu aufkommenden Methoden wie tragbaren Sensoren.
 Kapitel \ref{methoden zur messung der hydratation} wird einen Überblick über die verschiedenen Methoden geben. 
 
-Vor kurzem wurde von \textbf{Saryadevara et al.} die Verwendung von tragbaren Photoplethysmographie-Sensoren (PPG) zur objektiven Quantifizierung des Hydratationsstatus vorgeschlagen \cite{suryadevara2015towards}.
+Vor kurzem wurde von \textbf{Saryadevara et al.} die Verwendung von tragbaren Photoplethysmographie-Sensoren (PPG) zur objektiven Quantifizierung des Hydratationsstatus vorgestellt \cite{suryadevara2015towards}.
 Kaptel \ref{tragbare photoplethysmographie sensoren} richtet den Fokus auf tragbare PPG-Sensoren und erläutert sowohl die Verwendung von Photopletysmographie zur physiologischen Messung als auch die Verarbeitung eines PPG-Signals.
 
 In Kapitel \ref{vergleich der verfahren} wird die Zuverlässigkeit von PPG-Methoden anhand der verfügbaren Daten im Vergleich zu klinischen Methoden bewertet.
@@ -101,17 +101,65 @@ Abschließend erfolgt in Kapitel \ref{schlussbetrachtung und ausblick} eine Schl
 \section{Methoden zur Messung der Hydratation}
 \label{methoden zur messung der hydratation}
 
+\begin{table*}[ht]
+%\begingroup
+\centering
+\begin{tabular*}{13cm}{lll}
+Klinische Anamnese & Laboruntersuchungen & Aufkommende Methoden  \\\hline
+Durst & Blutanalyse  & \textbf{Visuelle/optische Messungen} \\
+Hautturgor & Urinanalyse & Elektromagnetische Messungen \\
+Blutdruck & Messung des Gewichts & Chemische Verfahren \\
+Herzfrequenz & Bioimpedanzanalyse & Akustische Verfahren \\\hline
+\end{tabular*}
+\caption{Überblick über die Methoden zur Messung der Dehydratation. Die Messung durch PPG-Sensoren ist eine aufkommende Methode und kann den \textbf{visuellen/optischen Methoden} zugeordnet werden.}
+\label{methodenübersicht}
+\end{table*}
+%\endgroup
+
+
+Um eine Grundlage für die Bewertung von PPG-Sensoren zu schaffen, werden in diesem Kapitel sowohl weit verbreitete als auch aufkommende Methoden (vergleiche Tab.~\ref{methodenübersicht}) vorgestellt.
+Für die klinische Verwendung sollten Dehydratationsmessungen in der Lage sein, Schwankungen innerhalb von 3\% des Gesamtkörperwassers oder etwa
+2\% des Körpergewichts für eine durchschnittliche Person zu erfassen.
+Jedoch können bestimmte Risikogruppen wie z.B. ältere Erwachsene bereits Symptome mit weniger ausgeprägten Änderungen der Dehydratation aufweisen \cite{garret2018engineering}.
+Die derzeit etablierten Methoden bestehen aus klinischer Anamnese und verschiedenen labortechnischen Untersuchungen.
+Zu den aufkommenden Methoden zählen u.A. visuelle/optische Messungen wie die PPG-Sensoren.
 
 \subsection{Klinische Anamnese}
 \label{klinische anamnese}
 
+Klinische Anamnese ist das derzeit am häufigsten verwendete Verfahren zur Beurteilung des Hydratationszustandes.
+Dabei werden Symptome betrachtet, die vom Patienten wahrgenommen oder vom praktizierenden Arzt erkannt wurden.
+ 
+Die einfachste Maßnahme besteht darin, den Durst einer Person zu beurteilen, indem man Methoden wie eine visuelle Analogskala oder eine kategorische Skala verwendet, mit der die Person ihren Durstgrad angibt.
+Das Durstgefühl spiegelt jedoch nicht ausreichend den Wasserbedarf in besonders dehydriergefährdeten Personengruppen wie älteren Erwachsenen wider \cite{garret2018engineering}.
+Eine Kombination aus dem Grad des morgendlichen Durstgefühls und dem Urinvolumen wurde von Armstrong et al. als Methode zur Identifizierung einer leichten Dehydratation vorgeschlagen \cite{armstrong2013novel}.
+
+Ein weiterer sehr einfacher Test ist der Hautturgortest oder Kneiftest. 
+Der Hautturgor ist ein Maß dafür, wie widerstandsfähig die Haut einer Person gegen Veränderungen ihrer Form ist.
+Dafür wird die Haut auf dem Handrücken in Zeltform eingeklemmt und für einige Sekunden gehalten.
+Wenn eine Person genügend Flüssigkeit in ihrem Körper hat, kehrt die Haut schnell in den vorherigen Zustand zurück.
+Kehrt die haut nur sehr langsam in den Zustand vor dem Einklemmen zurück, ist das ein Zeichen für eine leichte Dehydratation.
+Jedoch ist diese Methode sehr ungenau \cite{suryadevara2015towards}.
+
+Ein niedriger systolischer Blutdruck hat eine hohe Spezifität bei der Diagnose hypotoner Dehydrierung, aber eine schlechte Sensitivität \cite{fortes2015elderly}.
+
+Weiterhin kann Dehydrierung zu einer erhöhten Herzfrequenz in Ruhe und während leichten sportlichen Betätigung.
+und einem Blutdruckabfall beim Aufstehen aus der sitzenden oder liegenden Position führen.
+Zudem wurde die orthostatische Dysregulation als Indikator für den Hydratationsstatus untersucht. Dabei kommt es zu einem Blutdruckabfall beim Aufstehen aus der sitzenden oder liegenden Position.
+Tatsächlich können Blutdruck- und Herzfrequenzreaktionen auf schnelle Veränderungen der Körperhaltung verwendet werden, um zusätzliche Informationen bei der Beurteilung des Hydratationszustandes zu liefern.
+Diese klinischen Anzeichen können aber durch eine Reihe anderer Erkrankungen verursacht werden, wodurch sie zur Erkennung einer Dehydratation unbrauchbar sind, wenn sie unabhängig von anderen Indizes betrachtet werden
+\cite{garret2018engineering}
+\cite{kavouras2002assessing}
+\cite{davis1997effect}.
+
+Obwohl klinische Symptome relativ einfach zu beurteilen sind, sind die im Allgemeinen nicht ausreichend sensitiv und spezifisch.
 
 \subsection{Laboruntersuchungen}
 \label{laboruntersuchungen}
 
 
-\subsection{Tragbare Sensoren}
-\label{tragbare sensoren}
+\subsection{Aufkommende Methoden}
+\label{aufkommende methoden}
 
 
 \section{Tragbare Photoplethysmographie Sensoren}
