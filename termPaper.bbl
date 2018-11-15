@@ -414,6 +414,127 @@
       \field{pages}{174\bibrangedash 178}
       \range{pages}{5}
     \endentry
+    \entry{armstrong1994urinary}{article}{}
+      \name{author}{7}{}{%
+        {{hash=4411e6ca3e9557127830f334f14c7524}{%
+           family={Armstrong},
+           familyi={A\bibinitperiod},
+           given={Lawrence\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5764d49c4843bf447ad158e53985949a}{%
+           family={Maresh},
+           familyi={M\bibinitperiod},
+           given={Carl\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b6fe1056189f2db80af28767d3e16d43}{%
+           family={Castellani},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=81f36d2210e6337a84c99a68b250059e}{%
+           family={Bergeron},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=75798d5b132ff9427993ec1402641e25}{%
+           family={Kenefick},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=ed8095e13236fea77c7b793574cf5174}{%
+           family={LaGasse},
+           familyi={L\bibinitperiod},
+           given={Kent\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=17156be20515b3810525effcc3e6a965}{%
+           family={Riebe},
+           familyi={R\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1e6f24196c9c8897735101bce946e6a}
+      \strng{fullhash}{d6b2c58b6c5a966282b2f6f134bdef95}
+      \strng{bibnamehash}{d6b2c58b6c5a966282b2f6f134bdef95}
+      \strng{authorbibnamehash}{d6b2c58b6c5a966282b2f6f134bdef95}
+      \strng{authornamehash}{a1e6f24196c9c8897735101bce946e6a}
+      \strng{authorfullhash}{d6b2c58b6c5a966282b2f6f134bdef95}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of sport nutrition}
+      \field{number}{3}
+      \field{title}{Urinary indices of hydration status}
+      \field{volume}{4}
+      \field{year}{1994}
+      \field{pages}{265\bibrangedash 279}
+      \range{pages}{15}
+    \endentry
+    \entry{oppliger2002hydration}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3de0992ed43da31710a9e24bdf7efc80}{%
+           family={Oppliger},
+           familyi={O\bibinitperiod},
+           given={Robert\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a532f43cbe298322cc9e5d7594f438c6}{%
+           family={Bartok},
+           familyi={B\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{8ca0ddb066fd540368295c6faa9bfcda}
+      \strng{fullhash}{d21c2baafef61283f5ff2b09dab446cb}
+      \strng{bibnamehash}{d21c2baafef61283f5ff2b09dab446cb}
+      \strng{authorbibnamehash}{d21c2baafef61283f5ff2b09dab446cb}
+      \strng{authornamehash}{8ca0ddb066fd540368295c6faa9bfcda}
+      \strng{authorfullhash}{d21c2baafef61283f5ff2b09dab446cb}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sports Medicine}
+      \field{number}{15}
+      \field{title}{Hydration testing of athletes}
+      \field{volume}{32}
+      \field{year}{2002}
+      \field{pages}{959\bibrangedash 971}
+      \range{pages}{13}
+    \endentry
+    \entry{shirreffs1998urine}{article}{}
+      \name{author}{2}{}{%
+        {{hash=dad24e92d7df4a5beb1b11069fe22963}{%
+           family={Shirreffs},
+           familyi={S\bibinitperiod},
+           given={Susan\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7d1633ab8f3519cf8949aba8cfdd4435}{%
+           family={Maughan},
+           familyi={M\bibinitperiod},
+           given={Ronald\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e7a03a9fae2bbb40208550303133aaf}
+      \strng{fullhash}{0b8e2f53de27cdca8f304aaa08a1123a}
+      \strng{bibnamehash}{0b8e2f53de27cdca8f304aaa08a1123a}
+      \strng{authorbibnamehash}{0b8e2f53de27cdca8f304aaa08a1123a}
+      \strng{authornamehash}{8e7a03a9fae2bbb40208550303133aaf}
+      \strng{authorfullhash}{0b8e2f53de27cdca8f304aaa08a1123a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medicine and Science in Sports and Exercise}
+      \field{number}{11}
+      \field{title}{Urine osmolality and conductivity as indices of hydration status in athletes in the heat.}
+      \field{volume}{30}
+      \field{year}{1998}
+      \field{pages}{1598\bibrangedash 1602}
+      \range{pages}{5}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
