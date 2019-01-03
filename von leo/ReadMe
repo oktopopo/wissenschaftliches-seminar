@@ -1,0 +1,5 @@
+Compiling the template:
+
+latex Laborpraktikum.tex
+biber Laborpraktikum.bcf
+latex Laborpraktikum.tex

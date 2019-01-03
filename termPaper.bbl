@@ -535,6 +535,77 @@
       \field{pages}{1598\bibrangedash 1602}
       \range{pages}{5}
     \endentry
+    \entry{francesconi1987urinary}{article}{}
+      \name{author}{10}{}{%
+        {{hash=1195f5474603231556abd79afc8b99b0}{%
+           family={Francesconi},
+           familyi={F\bibinitperiod},
+           given={RP},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4f9820a7c489697a8abcf54e8157b7ad}{%
+           family={Hubbard},
+           familyi={H\bibinitperiod},
+           given={RW},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c20c8e947d578a22636e4b96b1f0f2c0}{%
+           family={Szlyk},
+           familyi={S\bibinitperiod},
+           given={PC},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ba7df5e4657ae5c034e531b0a5bf70af}{%
+           family={Schnakenberg},
+           familyi={S\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=92925daddbfb4b57812474779fbd2659}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=708e44ae8efab1f20c48e0ead7bcb600}{%
+           family={Leva},
+           familyi={L\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ab4135b80c5a736adf8555229ecf5caa}{%
+           family={Sils},
+           familyi={S\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=33805ec2690eb6ca0acab1136deb6bbf}{%
+           family={Hubbard},
+           familyi={H\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4342b23f6805ccfc074861cdc85d68af}{%
+           family={Pease},
+           familyi={P\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ea9005eb0e22bcd85b67ca8120a02f33}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0da77ae44eccad399965f1158024135}
+      \strng{fullhash}{f0cf1eec1389ad2b5ce388bda5ef1876}
+      \strng{bibnamehash}{f0cf1eec1389ad2b5ce388bda5ef1876}
+      \strng{authorbibnamehash}{f0cf1eec1389ad2b5ce388bda5ef1876}
+      \strng{authornamehash}{f0da77ae44eccad399965f1158024135}
+      \strng{authorfullhash}{f0cf1eec1389ad2b5ce388bda5ef1876}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Physiology}
+      \field{number}{3}
+      \field{title}{Urinary and hematologic indexes of hypohydration}
+      \field{volume}{62}
+      \field{year}{1987}
+      \field{pages}{1271\bibrangedash 1276}
+      \range{pages}{6}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

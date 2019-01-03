@@ -5,19 +5,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}Methoden zur Messung der Hydratation}{2}{section.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Klinische Anamnese}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.1}Etablierte Methoden}{2}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Laboruntersuchungen}{2}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.1.1}Klinische Anamnese}{2}{subsubsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Urinanalysen}{2}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2}Laboruntersuchungen}{3}{subsubsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Blutanalyse}{3}{subsection.2.2}
+\contentsline {paragraph}{Urinanalysen}{3}{subsubsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Messung des Gewichts}{4}{subsection.2.2}
+\contentsline {paragraph}{Blutanalyse}{4}{subsubsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Bioimpedanzanalyse}{4}{subsection.2.2}
+\contentsline {paragraph}{Messung des Gewichts}{4}{subsubsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Aufkommende Methoden}{5}{subsection.2.3}
+\contentsline {paragraph}{Bioimpedanzanalyse}{4}{subsubsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Aufkommende Methoden}{5}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Tragbare Photoplethysmographie Sensoren}{5}{section.3}
 \defcounter {refsection}{0}\relax 

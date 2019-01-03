@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.16)  15 NOV 2018 18:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.16)  3 JAN 2019 18:04
 entering extended mode
 **./termPaper.tex
 (termPaper.tex
@@ -311,7 +311,28 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.c
 fg"
 File: biblatex.cfg 
-)) (preferences.tex
+))
+("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.s
+ty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen103
+\lightrulewidth=\dimen104
+\cmidrulewidth=\dimen105
+\belowrulesep=\dimen106
+\belowbottomsep=\dimen107
+\aboverulesep=\dimen108
+\abovetopsep=\dimen109
+\cmidrulesep=\dimen110
+\cmidrulekern=\dimen111
+\defaultaddspace=\dimen112
+\@cmidla=\count278
+\@cmidlb=\count279
+\@aboverulesep=\dimen113
+\@belowrulesep=\dimen114
+\@thisruleclass=\count280
+\@lastruleclass=\count281
+\@thisrulewidth=\dimen115
+) (preferences.tex
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
 "
 Package: amsmath 2017/09/02 v2.17a AMS math features
@@ -325,46 +346,46 @@ Package: amstext 2000/06/29 v2.01 AMS text
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
-\ex@=\dimen103
+\ex@=\dimen116
 ))
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen104
+\pmbraise@=\dimen117
 ) ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
 y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count278
+\inf@bad=\count282
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count279
-\leftroot@=\count280
+\uproot@=\count283
+\leftroot@=\count284
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count281
-\DOTSCASE@=\count282
+\classnum@=\count285
+\DOTSCASE@=\count286
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen105
+\big@size=\dimen118
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count283
-\c@MaxMatrixCols=\count284
+\macc@depth=\count287
+\c@MaxMatrixCols=\count288
 \dotsspace@=\muskip11
-\c@parentequation=\count285
-\dspbrk@lvl=\count286
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
 \tag@help=\toks16
-\row@=\count287
-\column@=\count288
-\maxfields@=\count289
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
 \andhelp@=\toks17
-\eqnshift@=\dimen106
-\alignsep@=\dimen107
-\tagshift@=\dimen108
-\tagwidth@=\dimen109
-\totwidth@=\dimen110
-\lineht@=\dimen111
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
 \@envbody=\toks18
 \multlinegap=\skip66
 \multlinetaggap=\skip67
@@ -436,9 +457,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 y"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen112
-\Hy@linkcounter=\count290
-\Hy@pagecounter=\count291
+\@linkdim=\dimen125
+\Hy@linkcounter=\count294
+\Hy@pagecounter=\count295
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
 "
@@ -446,7 +467,7 @@ File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count292
+\Hy@SavedSpaceFactor=\count296
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
 fg"
@@ -459,12 +480,12 @@ Package hyperref Info: Plain pages OFF on input line 4550.
 Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4788.
-\c@Hy@tempcnt=\count293
+\c@Hy@tempcnt=\count297
 LaTeX Info: Redefining \url on input line 5141.
-\XeTeXLinkMargin=\dimen113
-\Fld@menulength=\count294
-\Field@Width=\dimen114
-\Fld@charsize=\dimen115
+\XeTeXLinkMargin=\dimen126
+\Fld@menulength=\count298
+\Field@Width=\dimen127
+\Fld@charsize=\dimen128
 Package hyperref Info: Hyper figures OFF on input line 6396.
 Package hyperref Info: Link nesting OFF on input line 6401.
 Package hyperref Info: Hyper index ON on input line 6404.
@@ -474,17 +495,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6421.
 Package hyperref Info: PDF/A mode OFF on input line 6426.
 LaTeX Info: Redefining \ref on input line 6466.
 LaTeX Info: Redefining \pageref on input line 6470.
-\Hy@abspage=\count295
-\c@Item=\count296
-\c@Hfootnote=\count297
+\Hy@abspage=\count299
+\c@Item=\count300
+\c@Hfootnote=\count301
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
 f"
 File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
-\Fld@listcount=\count298
-\c@bookmark@seq@number=\count299
+\Fld@listcount=\count302
+\c@bookmark@seq@number=\count303
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
 heck.sty"
@@ -498,33 +519,33 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ty"
 Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
 \multirow@colwidth=\skip69
-\multirow@cntb=\count300
+\multirow@cntb=\count304
 \multirow@dima=\skip70
-\bigstrutjot=\dimen116
+\bigstrutjot=\dimen129
 )
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
-\c@tracingmulticols=\count301
+\c@tracingmulticols=\count305
 
 Package multicol Warning: May not work with the twocolumn option on input line 
 141.
 
 \mult@box=\box28
-\multicol@leftmargin=\dimen117
-\c@unbalance=\count302
-\c@collectmore=\count303
-\doublecol@number=\count304
-\multicoltolerance=\count305
-\multicolpretolerance=\count306
-\full@width=\dimen118
-\page@free=\dimen119
-\premulticols=\dimen120
-\postmulticols=\dimen121
+\multicol@leftmargin=\dimen130
+\c@unbalance=\count306
+\c@collectmore=\count307
+\doublecol@number=\count308
+\multicoltolerance=\count309
+\multicolpretolerance=\count310
+\full@width=\dimen131
+\page@free=\dimen132
+\premulticols=\dimen133
+\postmulticols=\dimen134
 \multicolsep=\skip71
 \multicolbaselineskip=\skip72
 \partial@page=\box29
 \last@line=\box30
-\maxbalancingoverflow=\dimen122
+\maxbalancingoverflow=\dimen135
 \mult@rightbox=\box31
 \mult@grightbox=\box32
 \mult@gfirstbox=\box33
@@ -546,33 +567,33 @@ Package multicol Warning: May not work with the twocolumn option on input line
 \@tempa=\box49
 \@tempa=\box50
 \@tempa=\box51
-\c@columnbadness=\count307
-\c@finalcolumnbadness=\count308
-\last@try=\dimen123
-\multicolovershoot=\dimen124
-\multicolundershoot=\dimen125
+\c@columnbadness=\count311
+\c@finalcolumnbadness=\count312
+\last@try=\dimen136
+\multicolovershoot=\dimen137
+\multicolundershoot=\dimen138
 \mult@nat@firstbox=\box52
 \colbreak@box=\box53
-\mc@col@check@num=\count309
+\mc@col@check@num=\count313
 ) ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.st
 y"
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
  ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
-\col@sep=\dimen126
+\col@sep=\dimen139
 \ar@mcellbox=\box54
-\extrarowheight=\dimen127
+\extrarowheight=\dimen140
 \NC@list=\toks22
 \extratabsurround=\skip73
 \backup@length=\skip74
 \ar@cellbox=\box55
 )
-\TX@col@width=\dimen128
-\TX@old@table=\dimen129
-\TX@old@col=\dimen130
-\TX@target=\dimen131
-\TX@delta=\dimen132
-\TX@cols=\count310
+\TX@col@width=\dimen141
+\TX@old@table=\dimen142
+\TX@old@col=\dimen143
+\TX@target=\dimen144
+\TX@delta=\dimen145
+\TX@cols=\count314
 \TX@ftn=\toks23
 ) ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
 "
@@ -600,12 +621,12 @@ aphy)
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2018/09/26 3.24 Babel common definitions
-\babel@savecnt=\count311
-\U@D=\dimen133
+\babel@savecnt=\count315
+\U@D=\dimen146
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.de
 f")
-\bbl@dirlevel=\count312
+\bbl@dirlevel=\count316
 )
 Package babel Info: Making " an active character on input line 121.
 )))
@@ -630,8 +651,8 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 .def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen134
-\Gin@req@width=\dimen135
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
 )
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.s
 ty"
@@ -672,52 +693,52 @@ Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 y"
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen136
-\captionmargin@=\dimen137
-\captionwidth=\dimen138
-\caption@tempdima=\dimen139
-\caption@indent=\dimen140
-\caption@parindent=\dimen141
-\caption@hangindent=\dimen142
+\captionmargin=\dimen149
+\captionmargin@=\dimen150
+\captionwidth=\dimen151
+\caption@tempdima=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
 )
-\c@caption@flags=\count313
-\c@ContinuedFloat=\count314
+\c@caption@flags=\count317
+\c@ContinuedFloat=\count318
 Package caption Info: hyperref package is loaded.
 )
-\c@KVtest=\count315
+\c@KVtest=\count319
 \sf@farskip=\skip75
-\sf@captopadj=\dimen143
+\sf@captopadj=\dimen156
 \sf@capskip=\skip76
 \sf@nearskip=\skip77
-\c@subfigure=\count316
-\c@subfigure@save=\count317
-\c@lofdepth=\count318
-\c@subtable=\count319
-\c@subtable@save=\count320
-\c@lotdepth=\count321
+\c@subfigure=\count320
+\c@subfigure@save=\count321
+\c@lofdepth=\count322
+\c@subtable=\count323
+\c@subtable@save=\count324
+\c@lotdepth=\count325
 \sf@top=\skip78
 \sf@bottom=\skip79
 )
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.s
 ty"
-\lst@mode=\count322
+\lst@mode=\count326
 \lst@gtempboxa=\box56
 \lst@token=\toks24
-\lst@length=\count323
-\lst@currlwidth=\dimen144
-\lst@column=\count324
-\lst@pos=\count325
-\lst@lostspace=\dimen145
-\lst@width=\dimen146
-\lst@newlines=\count326
-\lst@lineno=\count327
-\lst@maxwidth=\dimen147
+\lst@length=\count327
+\lst@currlwidth=\dimen157
+\lst@column=\count328
+\lst@pos=\count329
+\lst@lostspace=\dimen158
+\lst@width=\dimen159
+\lst@newlines=\count330
+\lst@lineno=\count331
+\lst@maxwidth=\dimen160
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.st
 y"
 File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
-\c@lstnumber=\count328
-\lst@skipnumbers=\count329
+\c@lstnumber=\count332
+\lst@skipnumbers=\count333
 \lst@framebox=\box57
 )
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.c
@@ -749,11 +770,11 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 .sty"
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks25
-\MT@count=\count330
+\MT@count=\count334
 LaTeX Info: Redefining \textls on input line 793.
-\MT@outer@kern=\dimen148
+\MT@outer@kern=\dimen161
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count331
+\MT@listname@count=\count335
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype
 -pdftex.def"
@@ -772,17 +793,17 @@ File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.s
 ty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
-\Gm@cnth=\count332
-\Gm@cntv=\count333
-\c@Gm@tempcnt=\count334
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
+\Gm@cnth=\count336
+\Gm@cntv=\count337
+\c@Gm@tempcnt=\count338
+\Gm@bindingoffset=\dimen162
+\Gm@wd@mp=\dimen163
+\Gm@odd@mp=\dimen164
+\Gm@even@mp=\dimen165
+\Gm@layoutwidth=\dimen166
+\Gm@layoutheight=\dimen167
+\Gm@layouthoffset=\dimen168
+\Gm@layoutvoffset=\dimen169
 \Gm@dimlist=\toks26
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.c
@@ -811,12 +832,12 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box58
 \beforetitleunit=\skip90
 \aftertitleunit=\skip91
-\ttl@plus=\dimen157
-\ttl@minus=\dimen158
+\ttl@plus=\dimen170
+\ttl@minus=\dimen171
 \ttl@toksa=\toks28
-\titlewidth=\dimen159
-\titlewidthlast=\dimen160
-\titlewidthfirst=\dimen161
+\titlewidth=\dimen172
+\titlewidthlast=\dimen173
+\titlewidthfirst=\dimen174
 )
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\block.tss"
 File: block.tss 2016/03/15
@@ -864,8 +885,8 @@ File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count335
-\@quotereset=\count336
+\@quotelevel=\count339
+\@quotereset=\count340
 
 LaTeX Warning: Unused global option(s):
     [headinclude,plainheadsepline,open=right,numbers=noenddot].
@@ -873,21 +894,21 @@ LaTeX Warning: Unused global option(s):
 (termPaper.aux)
 \openout1 = `termPaper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Try loading font information for T1+pplx on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Try loading font information for T1+pplx on input line 59.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1pplx.fd"
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
@@ -901,10 +922,10 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'termPaper.bbl' found.
 
 (termPaper.bbl)
-Package biblatex Info: Reference section=0 on input line 58.
-Package biblatex Info: Reference segment=0 on input line 58.
+Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference segment=0 on input line 59.
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 58.
+Package hyperref Info: Link coloring OFF on input line 59.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
 y"
@@ -914,11 +935,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 string.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count337
+\c@section@level=\count341
 )
-LaTeX Info: Redefining \ref on input line 58.
-LaTeX Info: Redefining \pageref on input line 58.
-LaTeX Info: Redefining \nameref on input line 58.
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+LaTeX Info: Redefining \nameref on input line 59.
  (termPaper.out) (termPaper.out)
 \@outlinefile=\write5
 \openout5 = `termPaper.out'.
@@ -927,24 +948,24 @@ LaTeX Info: Redefining \nameref on input line 58.
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
 i"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count338
-\scratchdimen=\dimen162
+\scratchcounter=\count342
+\scratchdimen=\dimen175
 \scratchbox=\box60
-\nofMPsegments=\count339
-\nofMParguments=\count340
+\nofMPsegments=\count343
+\nofMParguments=\count344
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count341
-\MPscratchDim=\dimen163
-\MPnumerator=\count342
-\makeMPintoPDFobject=\count343
+\MPscratchCnt=\count345
+\MPscratchDim=\dimen176
+\MPnumerator=\count346
+\makeMPintoPDFobject=\count347
 \everyMPtoPDFconversion=\toks30
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count344
-LaTeX Info: Redefining \microtypecontext on input line 58.
+\c@lstlisting=\count348
+LaTeX Info: Redefining \microtypecontext on input line 59.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -995,50 +1016,50 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 69.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 69.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 70.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 70.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1pplx.fd"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 69.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 70.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 69.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 70.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 69.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 70.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 69.
+(Font)              scaled to size 12.50409pt on input line 70.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-msa.cf
 g"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 69.
+(Font)              scaled to size 9.37807pt on input line 70.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 69.
+(Font)              scaled to size 7.29405pt on input line 70.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 69.
+(Font)              scaled to size 12.50409pt on input line 70.
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-msb.cf
 g"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 69.
+(Font)              scaled to size 9.37807pt on input line 70.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 69.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 69.
+(Font)              scaled to size 7.29405pt on input line 70.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 70.
 
 
 ("C:\Users\Olgi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
@@ -1080,73 +1101,76 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
 []\T1/pplx/m/n/10 (+20) Vor kur-z-em wur-de von \T1/pplx/b/n/10 Sa-rya-de-va-
  []
 
 
-Underfull \hbox (badness 3690) in paragraph at lines 92--94
+Underfull \hbox (badness 3690) in paragraph at lines 93--95
 \T1/pplx/b/n/10 ra et al. \T1/pplx/m/n/10 (+20) die Ver-wen-dung von trag-ba-re
 n
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 92--94
+Underfull \hbox (badness 1281) in paragraph at lines 93--95
 \T1/pplx/m/n/10 (+20) die Ver-wen-dung von Pho-to-ple-tys-mo-gra-phie
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 92--94
+Underfull \hbox (badness 1389) in paragraph at lines 93--95
 \T1/pplx/m/n/10 (+20) zur phy-sio-lo-gi-schen Mes-sung als auch die
  []
 
 
-Overfull \hbox (0.6739pt too wide) in alignment at lines 107--113
+Overfull \hbox (7.54724pt too wide) in alignment at lines 108--119
 [][][] 
  []
 
 LaTeX Font Info:    Font shape `T1/pplx/bx/it' in size <10> not available
-(Font)              Font shape `T1/pplx/b/it' tried instead on input line 114.
+(Font)              Font shape `T1/pplx/b/it' tried instead on input line 120.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 127.
-[2] [3]
-Underfull \vbox (badness 2197) has occurred while \output is active []
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 133.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--241
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 242--247
 [] []\T1/pplx/b/n/10 Bioim-pe-dan-z-ana-ly-se[] \T1/pplx/m/n/10 (+20) (BIA) gil
 t als nicht-
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 236--241
+Underfull \hbox (badness 2150) in paragraph at lines 242--247
 \T1/pplx/m/n/10 (+20) Schweiÿ, Haut-tem-pe-ra-tur, Elek-tro-den-plat-zie-
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 236--241
+Underfull \hbox (badness 4981) in paragraph at lines 242--247
 \T1/pplx/m/n/10 (+20) Hy-dra-ta-ti-ons-zu-stan-des viel-ver-spre-chend ist,
  []
 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 279.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 279.
  (termPaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 279.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 279.
 Package rerunfilecheck Info: File `termPaper.out' has not changed.
-(rerunfilecheck)             Checksum: 839562BA216BA3F8E037BFCFAFDDBB60;768.
+(rerunfilecheck)             Checksum: 00393B36CFE85C9159AFFF1488B5DC15;858.
 Package logreq Info: Writing requests to 'termPaper.run.xml'.
 \openout1 = `termPaper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19281 strings out of 492970
- 320303 string characters out of 3127037
- 822637 words of memory out of 3000000
- 22562 multiletter control sequences out of 15000+200000
- 60634 words of font info for 272 fonts, out of 3000000 for 9000
+ 19339 strings out of 492970
+ 321323 string characters out of 3127037
+ 824510 words of memory out of 3000000
+ 22622 multiletter control sequences out of 15000+200000
+ 60188 words of font info for 266 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  46i,11n,43p,1834b,2180s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
@@ -1157,9 +1181,9 @@ rw/palatino/uplb8a.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/urw/palatino/uplbi8a.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Olgi/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on termPaper.pdf (5 pages, 132134 bytes).
+Output written on termPaper.pdf (5 pages, 127647 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 44625 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 44633 words of extra memory for PDF output out of 51595 (max. 10000000)
 

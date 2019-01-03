@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'termPaper.blg'
-[38] biber-MSWIN64:313> INFO - === 
-[75] Biber.pm:371> INFO - Reading 'termPaper.bcf'
-[190] Biber.pm:857> INFO - Found 11 citekeys in bib section 0
-[208] Biber.pm:3976> INFO - Processing section 0
-[229] Biber.pm:4136> INFO - Looking for bibtex format file 'termPaper.bib' for section 0
-[234] bibtex.pm:1500> INFO - LaTeX decoding ...
-[279] bibtex.pm:1316> INFO - Found BibTeX data source 'termPaper.bib'
-[417] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[417] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[418] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[418] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
-[431] bbl.pm:617> INFO - Writing 'termPaper.bbl' with encoding 'UTF-8'
-[439] bbl.pm:720> INFO - Output to termPaper.bbl
+[47] biber-MSWIN64:313> INFO - === 
+[97] Biber.pm:371> INFO - Reading 'termPaper.bcf'
+[250] Biber.pm:857> INFO - Found 12 citekeys in bib section 0
+[278] Biber.pm:3976> INFO - Processing section 0
+[303] Biber.pm:4136> INFO - Looking for bibtex format file 'termPaper.bib' for section 0
+[308] bibtex.pm:1500> INFO - LaTeX decoding ...
+[355] bibtex.pm:1316> INFO - Found BibTeX data source 'termPaper.bib'
+[490] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[491] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[491] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[491] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
+[502] bbl.pm:617> INFO - Writing 'termPaper.bbl' with encoding 'UTF-8'
+[510] bbl.pm:720> INFO - Output to termPaper.bbl
