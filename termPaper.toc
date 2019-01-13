@@ -3,30 +3,30 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Methoden zur Messung der Hydratation}{2}{section.2}
+\contentsline {section}{\numberline {2}Etablierte Methoden zur Messung der Hydratation}{2}{section.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Etablierte Methoden}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.1}Klinische Anamnese}{2}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1}Klinische Anamnese}{2}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}Laboruntersuchungen}{3}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.2}Laboruntersuchungen}{3}{subsubsection.2.1.2}
+\contentsline {paragraph}{Urinanalysen}{3}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Urinanalysen}{3}{subsubsection.2.1.2}
+\contentsline {paragraph}{Blutanalyse}{3}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Blutanalyse}{4}{subsubsection.2.1.2}
+\contentsline {paragraph}{Messung des Gewichts}{4}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Messung des Gewichts}{4}{subsubsection.2.1.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Bioimpedanzanalyse}{4}{subsubsection.2.1.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Aufkommende Methoden}{5}{subsection.2.2}
+\contentsline {paragraph}{Bioimpedanzanalyse}{4}{figure.caption.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Tragbare Photoplethysmographie Sensoren}{5}{section.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}Verwendung von Photopletysmographie zur physiologischen Messung}{5}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Verarbeitung des PPG-Signals}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.1.1}Prinzip von PPG}{5}{subsubsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Vergleich der Zuverl\IeC {\"a}ssigkeit der PPG-Sensoren mit klinischen Methoden}{5}{section.4}
+\contentsline {subsection}{\numberline {3.2}Verarbeitung des PPG-Signals}{6}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Schlussbetrachtung und Ausblick}{5}{section.5}
+\contentsline {subsubsection}{\numberline {3.2.1}Wellenl\IeC {\"a}nge des Lichts}{6}{subsubsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2}Transmittierte und reflektierte Signale}{6}{subsubsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Schlussbetrachtung und Ausblick}{9}{section.4}

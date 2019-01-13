@@ -199,45 +199,6 @@
       \endverb
       \keyw{bioacoustics;biochemistry;biological tissues;biomedical equipment;bio-optics;blood;cognition;diseases;kidney;patient monitoring;reviews;hydration status;medical conditions;review;clinical indicators;blood;urine;portable hydration monitoring devices;acoustical properties;chemical properties;optical properties;electromagnetic properties;biological tissue;bodily fluids;hydration assessment;fluid homeostasis;environmental exposure;physical activity;older adults;manual workers;military personnel;kidney stones;urolithiasis;chronic mild dehydration;health effects;exhaustion;heat stroke;cognitive impairment;physical impairment;acute dehydration;total body water;rapid hydration monitoring devices;simple hydration monitoring devices;routine laboratory analyses;Fluids;Heating systems;Sociology;Statistics;Personnel;Training;Blood;Assessment;dehydration;hydration;monitoring;water content}
     \endentry
-    \entry{suryadevara2015towards}{article}{}
-      \name{author}{3}{}{%
-        {{hash=23a0b4b39b3fcb977c899358aeece67d}{%
-           family={Suryadevara},
-           familyi={S\bibinitperiod},
-           given={Nagender\bibnamedelima K},
-           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=4a389f5004773c92e5297aeabaa5db72}{%
-           family={Mukhopadhyay},
-           familyi={M\bibinitperiod},
-           given={Subhas\bibnamedelima C},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=5aab441ce4106e999121720ea9e161e9}{%
-           family={Barrack},
-           familyi={B\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{699da5bb89ee8b3126979d0bbd9a293c}
-      \strng{fullhash}{d9f330ac24611f4646b1ccb432b8e701}
-      \strng{bibnamehash}{d9f330ac24611f4646b1ccb432b8e701}
-      \strng{authorbibnamehash}{d9f330ac24611f4646b1ccb432b8e701}
-      \strng{authornamehash}{699da5bb89ee8b3126979d0bbd9a293c}
-      \strng{authorfullhash}{d9f330ac24611f4646b1ccb432b8e701}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of medical systems}
-      \field{number}{4}
-      \field{title}{Towards a smart non-invasive fluid loss measurement system}
-      \field{volume}{39}
-      \field{year}{2015}
-      \field{pages}{38}
-      \range{pages}{1}
-    \endentry
     \entry{armstrong2013novel}{article}{}
       \name{author}{6}{}{%
         {{hash=4411e6ca3e9557127830f334f14c7524}{%
@@ -280,8 +241,8 @@
       \strng{authorbibnamehash}{6f26124e73d2f1c1e930f83a4b47b7da}
       \strng{authornamehash}{a1e6f24196c9c8897735101bce946e6a}
       \strng{authorfullhash}{6f26124e73d2f1c1e930f83a4b47b7da}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Applied Physiology, Nutrition, and Metabolism}
@@ -291,6 +252,45 @@
       \field{year}{2013}
       \field{pages}{138\bibrangedash 144}
       \range{pages}{7}
+    \endentry
+    \entry{suryadevara2015towards}{article}{}
+      \name{author}{3}{}{%
+        {{hash=23a0b4b39b3fcb977c899358aeece67d}{%
+           family={Suryadevara},
+           familyi={S\bibinitperiod},
+           given={Nagender\bibnamedelima K},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4a389f5004773c92e5297aeabaa5db72}{%
+           family={Mukhopadhyay},
+           familyi={M\bibinitperiod},
+           given={Subhas\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=5aab441ce4106e999121720ea9e161e9}{%
+           family={Barrack},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{699da5bb89ee8b3126979d0bbd9a293c}
+      \strng{fullhash}{d9f330ac24611f4646b1ccb432b8e701}
+      \strng{bibnamehash}{d9f330ac24611f4646b1ccb432b8e701}
+      \strng{authorbibnamehash}{d9f330ac24611f4646b1ccb432b8e701}
+      \strng{authornamehash}{699da5bb89ee8b3126979d0bbd9a293c}
+      \strng{authorfullhash}{d9f330ac24611f4646b1ccb432b8e701}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of medical systems}
+      \field{number}{4}
+      \field{title}{Towards a smart non-invasive fluid loss measurement system}
+      \field{volume}{39}
+      \field{year}{2015}
+      \field{pages}{38}
+      \range{pages}{1}
     \endentry
     \entry{fortes2015elderly}{article}{}
       \name{author}{7}{}{%
@@ -339,8 +339,8 @@
       \strng{authorbibnamehash}{61dd97e3a3d589d8c3708be266d66782}
       \strng{authornamehash}{74bfc3f22b120442cbfe982b6e20f423}
       \strng{authorfullhash}{61dd97e3a3d589d8c3708be266d66782}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the American Medical Directors Association}
@@ -594,8 +594,8 @@
       \strng{authorbibnamehash}{f0cf1eec1389ad2b5ce388bda5ef1876}
       \strng{authornamehash}{f0da77ae44eccad399965f1158024135}
       \strng{authorfullhash}{f0cf1eec1389ad2b5ce388bda5ef1876}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Applied Physiology}
@@ -605,6 +605,221 @@
       \field{year}{1987}
       \field{pages}{1271\bibrangedash 1276}
       \range{pages}{6}
+    \endentry
+    \entry{tamura2014wearable}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9f79c3efbb59cb3d7e542769b19f6dbe}{%
+           family={Tamura},
+           familyi={T\bibinitperiod},
+           given={Toshiyo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2ec15f8dcd10e0c506e043448a03a2de}{%
+           family={Maeda},
+           familyi={M\bibinitperiod},
+           given={Yuka},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=31c99b4a2169c9bb77fd7c602f8d3a82}{%
+           family={Sekine},
+           familyi={S\bibinitperiod},
+           given={Masaki},
+           giveni={M\bibinitperiod}}}%
+        {{hash=49c44f19f491eefe13309812eb336d95}{%
+           family={Yoshida},
+           familyi={Y\bibinitperiod},
+           given={Masaki},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{940213f5277bf7173e4d21292ed82cdc}
+      \strng{fullhash}{660d53ab7b3b76c6bebbd72424f1d872}
+      \strng{bibnamehash}{660d53ab7b3b76c6bebbd72424f1d872}
+      \strng{authorbibnamehash}{660d53ab7b3b76c6bebbd72424f1d872}
+      \strng{authornamehash}{940213f5277bf7173e4d21292ed82cdc}
+      \strng{authorfullhash}{660d53ab7b3b76c6bebbd72424f1d872}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronics}
+      \field{number}{2}
+      \field{title}{Wearable photoplethysmographic sensors—past and present}
+      \field{volume}{3}
+      \field{year}{2014}
+      \field{pages}{282\bibrangedash 302}
+      \range{pages}{21}
+    \endentry
+    \entry{kirenko2017unobtrusive}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=16eca54a4f2aaa242b80136f0dcfcbee}{%
+           family={Kirenko},
+           familyi={K\bibinitperiod},
+           given={Ihor\bibnamedelima Olehovych},
+           giveni={I\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=475fa1929cb9b7a0ba7a0700c4ba1ea0}{%
+           family={Verkruijsse},
+           familyi={V\bibinitperiod},
+           given={Willem},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Google Patents}%
+      }
+      \strng{namehash}{e81b06a113c856d0100b07c26d4b0cbe}
+      \strng{fullhash}{5ca6f507bef0fe720500f16a89ea0e8b}
+      \strng{bibnamehash}{5ca6f507bef0fe720500f16a89ea0e8b}
+      \strng{authorbibnamehash}{5ca6f507bef0fe720500f16a89ea0e8b}
+      \strng{authornamehash}{e81b06a113c856d0100b07c26d4b0cbe}
+      \strng{authorfullhash}{5ca6f507bef0fe720500f16a89ea0e8b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7~20}
+      \field{note}{US Patent App. 15/326,807}
+      \field{title}{Unobtrusive skin tissue hydration determining device and related method}
+      \field{year}{2017}
+    \endentry
+    \entry{mcpherson2015systems}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=181bc26a4bea0d456936841ab5f43caa}{%
+           family={McPherson},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima Wright},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=c8dfadf297708af074774b1ab35a6bed}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima Steven},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=47fa7a1c78bd78e20aac3068adad4ba5}{%
+           family={Prodanovich},
+           familyi={P\bibinitperiod},
+           given={Timothy\bibnamedelima G},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=afe2739f3fc0c7225a685c9772e63328}{%
+           family={Gadsby},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima Donald},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Google Patents}%
+      }
+      \strng{namehash}{9e3f317302ee3964f9bb1a4087d41cd5}
+      \strng{fullhash}{3dd62e779eebaf51c339ba6ad659a346}
+      \strng{bibnamehash}{3dd62e779eebaf51c339ba6ad659a346}
+      \strng{authorbibnamehash}{3dd62e779eebaf51c339ba6ad659a346}
+      \strng{authornamehash}{9e3f317302ee3964f9bb1a4087d41cd5}
+      \strng{authorfullhash}{3dd62e779eebaf51c339ba6ad659a346}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10~29}
+      \field{note}{US Patent App. 14/677,393}
+      \field{title}{Systems and Methods for Measuring Hydration in a Human Subject}
+      \field{year}{2015}
+    \endentry
+    \entry{grudic2017hemodynamic}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=6018ac4870ed5860b8fda13191b39623}{%
+           family={Grudic},
+           familyi={G\bibinitperiod},
+           given={Gregory\bibnamedelima Zlatko},
+           giveni={G\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=2a990e8e522b5dace2ee22c14f36fd49}{%
+           family={Moulton},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima Lee},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1a515a4195956a3b8f2f07953154e47b}{%
+           family={Mulligan},
+           familyi={M\bibinitperiod},
+           given={Isobel\bibnamedelima Jane},
+           giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {United States Patent}%
+      }
+      \strng{namehash}{8475a1574cb6d0f39d0ddfbbfc24ce2b}
+      \strng{fullhash}{7bc055f701335018e1008de44ea50e13}
+      \strng{bibnamehash}{7bc055f701335018e1008de44ea50e13}
+      \strng{authorbibnamehash}{7bc055f701335018e1008de44ea50e13}
+      \strng{authornamehash}{8475a1574cb6d0f39d0ddfbbfc24ce2b}
+      \strng{authorfullhash}{7bc055f701335018e1008de44ea50e13}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{US Patent App. 13/554,483}
+      \field{title}{Hemodynamic reserve monitor and hemodialysis control}
+      \field{year}{2017}
+    \endentry
+    \entry{john2007photopletysmography}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6b456bf2b91b3463010382abf2344c47}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b456bf2b91b3463010382abf2344c47}
+      \strng{fullhash}{6b456bf2b91b3463010382abf2344c47}
+      \strng{bibnamehash}{6b456bf2b91b3463010382abf2344c47}
+      \strng{authorbibnamehash}{6b456bf2b91b3463010382abf2344c47}
+      \strng{authornamehash}{6b456bf2b91b3463010382abf2344c47}
+      \strng{authorfullhash}{6b456bf2b91b3463010382abf2344c47}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physiol. Meas. (Physiological Measurement)}
+      \field{number}{3}
+      \field{title}{Photoplethysmography and its application in clinical physiological measurement}
+      \field{volume}{28}
+      \field{year}{2007}
+      \field{pages}{R1\bibrangedash R38}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1088/0967-3334/28/3/R01
+      \endverb
+    \endentry
+    \entry{anderson1981optics}{article}{}
+      \name{author}{2}{}{%
+        {{hash=077d85453fd51db8083aca52cb28b82c}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={R\bibnamedelima Rox},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b0434ac8b06c03b030836a65097dea31}{%
+           family={Parrish},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{42973ff7ae5de77cfd3aad7a71b8f94e}
+      \strng{fullhash}{4eb151fe3aa5b712d98d5b9d5b4362d0}
+      \strng{bibnamehash}{4eb151fe3aa5b712d98d5b9d5b4362d0}
+      \strng{authorbibnamehash}{4eb151fe3aa5b712d98d5b9d5b4362d0}
+      \strng{authornamehash}{42973ff7ae5de77cfd3aad7a71b8f94e}
+      \strng{authorfullhash}{4eb151fe3aa5b712d98d5b9d5b4362d0}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of investigative dermatology}
+      \field{number}{1}
+      \field{title}{The optics of human skin}
+      \field{volume}{77}
+      \field{year}{1981}
+      \field{pages}{13\bibrangedash 19}
+      \range{pages}{7}
     \endentry
   \enddatalist
 \endrefsection
